@@ -6,11 +6,11 @@ const About = () => {
   return (
     <div className='about-me-top-div'>
       <div className='world-image'>
-         <img className='' src='src\assets\worldconnections.gif' />
+         <img className='' src='\worldconnections.gif' />
       </div>
        <div className='about-me'>
        <div className='about-left-image'>
-            <img src='src\assets\developer.gif' />
+            <img src='\developer.gif' />
         </div>
         <div className='about-me-disc'>
             <p>Hello, I am <span>Vishal Jaiswal</span>, a dedicated and passionate student currently pursuing <span>Bachelor degree in Computer Application</span> at <span>MAULANA MAZHARUL HAQUE ARABIC & PERSIAN UNIVERSITY</span>. With a strong foundation in <span>web development</span>, I am eager to apply my knowledge and skills to real-world challenges. Throughout my academic journey, I have developed a deep interest in <span>Full Stack Development</span>, which has driven me to actively seek opportunities for growth and learning.

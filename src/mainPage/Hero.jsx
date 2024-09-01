@@ -5,7 +5,7 @@ import "./main.css"
 const Hero = () => {
   return (
     <>
-      <img className='background' src='src\assets\background.gif' />
+      <img className='background' src='\background.gif' />
 
     <div className='hero-top-div'>
      
@@ -28,7 +28,7 @@ const Hero = () => {
         <div className='hero-right-div px-5 px-sm-1'>
             
             <div className='portfolio-image-div'>
-                <img src='src\assets\myImage.jpeg' />
+                <img src='\myImage.jpeg' />
             </div>
         </div>
 
